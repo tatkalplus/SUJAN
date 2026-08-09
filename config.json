@@ -7,8 +7,8 @@
   "appfilename": "https://plusvalidation.in/validate/appdll.php",
   "appfilename2": "https://plusvalidation.in/validate/appdll2.php",
   "upload_url": "https://plusvalidation.in/validate/screenshort.php",
-  "token_api": "https://plusvalidation.in/token/get_tokens.php",
-  "token_api2": "https://plusvalidation.in/token/get_tokens.php",
+  "token_api": "https://sujan.cooo.in/get_tokens.php?i=1",
+  "token_api2": "https://sujan.cooo.in/get_tokens.php?i=1",
   "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
   "cache_directory2":"%APPDATA%\\MyAppDataNews"
