@@ -1,5 +1,4 @@
 {
-  "offline_mode": false,
   "login_type_app":"APP",
   "login_type": "APP2",
   "webgetfilename": "https://plusvalidation.in/validate/getfilename.php",
@@ -9,7 +8,6 @@
   "upload_url": "https://plusvalidation.in/validate/screenshort.php",
   "token_api": "https://sujan.cooo.in/get_tokens.php?i=1",
   "token_api2": "https://sujan.cooo.in/get_tokens.php?i=1",
-  "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
   "cache_directory2":"%APPDATA%\\MyAppDataNews"
 }
