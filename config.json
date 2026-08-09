@@ -1,6 +1,6 @@
 {
   "login_type_app":"APP",
-  "login_type": "APP2",
+  "login_type": "BETA",
   "webgetfilename": "https://plusvalidation.in/token/getfilename.php",
   "webgetfilenamechrome": "https://plusvalidation.in/token/getfilenamechrome.php",
   "appfilename": "https://plusvalidation.in/token/appdll.php",
